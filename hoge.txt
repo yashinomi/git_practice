@@ -1,3 +1,4 @@
 hogehoge
 hoge
 new commit
+new commit from clone
