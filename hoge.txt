@@ -3,3 +3,4 @@ hoge
 new commit
 new commit from clone
 new commit from clone 2
+new commit from remot 2
